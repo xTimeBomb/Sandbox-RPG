@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxRPG", "SandboxRPG\SandboxRPG\SandboxRPG.csproj", "{8C1F9B1F-A6A1-439B-8618-3E0759629FBF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SandboxRPGContent", "SandboxRPG\SandboxRPGContent\SandboxRPGContent.contentproj", "{40B6C0D6-F040-421A-AA07-0AC38E1EAB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1F9B1F-A6A1-439B-8618-3E0759629FBF}.Debug|x86.ActiveCfg = Debug|x86
+		{8C1F9B1F-A6A1-439B-8618-3E0759629FBF}.Debug|x86.Build.0 = Debug|x86
+		{8C1F9B1F-A6A1-439B-8618-3E0759629FBF}.Release|x86.ActiveCfg = Release|x86
+		{8C1F9B1F-A6A1-439B-8618-3E0759629FBF}.Release|x86.Build.0 = Release|x86
+		{40B6C0D6-F040-421A-AA07-0AC38E1EAB11}.Debug|x86.ActiveCfg = Debug|x86
+		{40B6C0D6-F040-421A-AA07-0AC38E1EAB11}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

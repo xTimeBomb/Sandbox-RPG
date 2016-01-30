@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using Microsoft.Xna.Framework;
+
+namespace SandboxRPG
+{
+     class GameItem
+     {
+          // stats implemention
+     }
+
+     class Inventory : DrawableGameComponent
+     {
+          public void LoadContent()
+          {
+               
+          }
+     }
+}
